@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# FinGPT
+
+This is the frontend for the FinGPT project built during the OpenAI plugin hackathon on 2023.04.15. The backend can be found [here](https://github.com/dmonaldo/chatgpt-retrieval-plugin).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
