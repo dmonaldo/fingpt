@@ -105,6 +105,7 @@ const App = () => {
   };
 
   const clearSession = () => {
+    localStorage.clear();
     setAccessToken(null);
     setTransactions([]);
     setAccounts([]);
